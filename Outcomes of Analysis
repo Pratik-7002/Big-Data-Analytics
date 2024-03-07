@@ -1,0 +1,9 @@
+My meticulous analysis revealed a noteworthy correlation between delaying flights and key time attributes such as Departure Time, Crs Departure Time, and CRS Arrival Time. Understanding these temporal patterns is pivotal for optimizing flight schedules.
+
+Surprisingly, attributes like Air Time, Crs Elapsed Time, Actual Elapsed Time, Flight Number, and temporal variables (day, month, year) exhibited a negative correlation with flight delays. This intriguing finding challenges conventional assumptions, suggesting these factors are not strong predictors of delays.
+
+Unveiling the geographical dynamics, Chicago O'Hare International Airport, Hartsfield-Jackson Atlanta International Airport, and Newark Airport emerged as the top three contributors to flight delays. Understanding these airport-specific patterns is crucial for proactive operational strategies.
+
+Delving into carrier performance, Southwest Airlines, American Airlines, and Delta Airlines surfaced as the top three carriers with the highest delay occurrences. Pinpointing these trends aids in targeted interventions to enhance carrier efficiency.
+
+A holistic view of delays across all airports revealed a compelling insight: Departure delays outweigh Arrival delays. In the landscape of U.S. aviation in 2004, the cumulative departure delay hours stood at a substantial 920,969.0166, overshadowing the Arrival delay hours of 757,943.3833. This shift in focus provides valuable direction for resource allocation and operational improvements.
