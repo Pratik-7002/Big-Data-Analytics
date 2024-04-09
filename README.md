@@ -1,4 +1,4 @@
-# Big-Data-Analytics
+# Analysis of Flight Delay Forecasts
 Overview: In this project, I conducted a comprehensive analysis of flight delays using advanced data processing techniques and deep learning models. Leveraging my expertise in Python, Hive, AWS Hadoop, and RapidMiner, I aimed to predict flight delays with high accuracy to enhance operational efficiency in the aviation industry.
 
 Key Contributions:
